@@ -1,0 +1,17 @@
+﻿@model MVCModelDemo.Models.AddressViewModel
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@using (Html.BeginForm("Save","Home"))
+{
+    <div>@Html.EditorFor(model => model.Address)</div><br/>
+    <div>@Html.EditorFor(model => model.City)</div><br />
+    <div>@Html.EditorFor(model => model.State)</div><br />
+    <div>@Html.EditorFor(model => model.Zip)</div><br />
+    @Html.HiddenFor(model => model.Id)
+    <input type="submit" name="Save" value="Save" />
+}
