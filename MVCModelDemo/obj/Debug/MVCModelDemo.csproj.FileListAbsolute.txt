@@ -16,3 +16,24 @@ c:\users\frank\documents\visual studio 2013\Projects\MVCModelDemo\MVCModelDemo\b
 c:\users\frank\documents\visual studio 2013\Projects\MVCModelDemo\MVCModelDemo\obj\Debug\MVCModelDemo.csprojResolveAssemblyReference.cache
 c:\users\frank\documents\visual studio 2013\Projects\MVCModelDemo\MVCModelDemo\obj\Debug\MVCModelDemo.dll
 c:\users\frank\documents\visual studio 2013\Projects\MVCModelDemo\MVCModelDemo\obj\Debug\MVCModelDemo.pdb
+D:\GitHub\MVCModelDemo\MVCModelDemo\bin\MVCModelDemo.dll.config
+D:\GitHub\MVCModelDemo\MVCModelDemo\bin\MVCModelDemo.dll
+D:\GitHub\MVCModelDemo\MVCModelDemo\bin\MVCModelDemo.pdb
+D:\GitHub\MVCModelDemo\MVCModelDemo\bin\Microsoft.Web.Infrastructure.dll
+D:\GitHub\MVCModelDemo\MVCModelDemo\bin\System.Web.Helpers.dll
+D:\GitHub\MVCModelDemo\MVCModelDemo\bin\System.Web.Mvc.dll
+D:\GitHub\MVCModelDemo\MVCModelDemo\bin\System.Web.Razor.dll
+D:\GitHub\MVCModelDemo\MVCModelDemo\bin\System.Web.Webpages.Deployment.dll
+D:\GitHub\MVCModelDemo\MVCModelDemo\bin\System.Web.Webpages.dll
+D:\GitHub\MVCModelDemo\MVCModelDemo\bin\System.Web.Webpages.Razor.dll
+D:\GitHub\MVCModelDemo\MVCModelDemo\bin\System.Web.Razor.xml
+D:\GitHub\MVCModelDemo\MVCModelDemo\bin\System.Web.Webpages.xml
+D:\GitHub\MVCModelDemo\MVCModelDemo\bin\System.Web.Webpages.Deployment.xml
+D:\GitHub\MVCModelDemo\MVCModelDemo\bin\System.Web.Webpages.Razor.xml
+D:\GitHub\MVCModelDemo\MVCModelDemo\bin\System.Web.Helpers.xml
+D:\GitHub\MVCModelDemo\MVCModelDemo\bin\System.Web.Mvc.xml
+D:\GitHub\MVCModelDemo\MVCModelDemo\obj\Debug\MVCModelDemo.csprojAssemblyReference.cache
+D:\GitHub\MVCModelDemo\MVCModelDemo\obj\Debug\MVCModelDemo.csproj.CoreCompileInputs.cache
+D:\GitHub\MVCModelDemo\MVCModelDemo\obj\Debug\MVCModelDemo.csproj.CopyComplete
+D:\GitHub\MVCModelDemo\MVCModelDemo\obj\Debug\MVCModelDemo.dll
+D:\GitHub\MVCModelDemo\MVCModelDemo\obj\Debug\MVCModelDemo.pdb
